@@ -1,0 +1,19 @@
+BASIC LINUX COMMANDS....
+
+ls---listing all files on current directory
+ls-l---formatted listing
+cddir---change directory name
+cd_----change to parent directory
+cd---change to home directory
+pwd----present working directory
+mkdir----create a directory
+touch---create or update file
+rmdir----to remove a directory
+ping----to check your connection to server
+clear----clear the terminal
+cat----displays the contents of file
+rm----remove a file
+mv----to move a file or directory from one location to another location
+rename----to rename the file name
+head----it displays the first ten lines of a file
+tail----it displays the last ten lines of a file

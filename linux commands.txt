@@ -16,4 +16,4 @@ rm----remove a file
 mv----to move a file or directory from one location to another location
 rename----to rename the file name
 head----it displays the first ten lines of a file
-tail----it displays the last ten lines of a file
+tail----it displays the last ten lines of a file 
